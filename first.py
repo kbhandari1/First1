@@ -1,3 +1,4 @@
 #!/bin/bash/python
-print("hello john"
+print("hello john)"
+
 
